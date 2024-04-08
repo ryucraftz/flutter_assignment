@@ -15,11 +15,6 @@
 Dart SDK Version 3.3.2 or greater.
 Flutter SDK Version 3.19.4 or greater.
 
-### Figma design guidelines for better UI accuracy
-
-Read our guidelines to increase the accuracy of design-to-code conversion by optimizing Figma designs.
-https://docs.dhiwise.com/docs/Designguidelines/intro
-
 ### Check the UI of the entire app
 
 Check the UI of all the app screens from a single place by setting up the 'initialRoute'  to AppNavigation in the AppRoutes.dart file.
